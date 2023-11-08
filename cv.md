@@ -95,7 +95,7 @@ But that's not all the knowledge I have!
 ***
 ## Languages:
 * English (Basic).
-* Russin
+* Russin.
 ***
 
 ## Education: BNTU
