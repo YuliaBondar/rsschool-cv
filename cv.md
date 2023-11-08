@@ -78,6 +78,7 @@ int multiply(int a, int b)
 I took courses at Stepik:
 
 * **Immersion in JavaScript: for beginners**
+  
   ![Immersion in JavaScript: for beginners](js_stepik.jpg)
 
 * **Frontend** 
