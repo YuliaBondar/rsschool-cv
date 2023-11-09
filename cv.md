@@ -10,11 +10,11 @@
 ## *Contact information:*
 Phone: +375 (29) 20- 398-54
 
-G-mail: uliabondar@gmail.com
+G-mail: uliabondar@gmail.com .
 
-Telegram: @juliaabondar
+Telegram: @juliaabondar .
 
-Instagram: [bondarjuliaa_](https://instagram.com/bondarjuliaa_?igshid=OHJzemkxdW9xNzBw)
+Instagram: [bondarjuliaa_](https://instagram.com/bondarjuliaa_?igshid=OHJzemkxdW9xNzBw) .
 ***
 ##  **Briefly About Myself:**
 Having entered the university in 2022, namely the Belarusian National Technical University, I began to think about who I could be. I chose the Faculty of Information Technology and Robotics, I was interested in the IT field.
