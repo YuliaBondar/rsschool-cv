@@ -62,15 +62,13 @@
                 function alphabetPosition(text){
                 const alphabet = 'abcdefghijklmnopqrstuvwxyz';
                 const loweredStr = text.toLowerCase();
-              let result = '';
-            
-              for (let i = 0; i = loweredStr.length; i++) {
+                let result = '';
+                for (let i = 0; i = loweredStr.length; i++) {
                 const char = loweredStr[i];
                 const charIndex = alphabet.indexOf(char);
-            
                 if (charIndex !== -1) {
-                  const position = charIndex + 1;
-                  result += position.toString() + ' ';
+                const position = charIndex + 1;
+                result += position.toString() + ' ';
                 }
               }
               return result.trim();
