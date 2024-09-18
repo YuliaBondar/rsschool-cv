@@ -1,6 +1,6 @@
-a:visited {
+a:visited{
     color: rgb(15, 0, 128);
-    text-decoration: line-through;  
+    text-decoration: line-through;
 }
 .rs{
     font-size:30px;
@@ -25,13 +25,12 @@ aside{
     width: 78%;
     padding: 10px;
 }
-
 section{
     float: left;
     width: 78%;
     padding: 10px;
 }
-.course ul img {
+.course ul img{
     float:left;
     width: 30%;
     background-color: aliceblue;
